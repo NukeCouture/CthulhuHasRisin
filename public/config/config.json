@@ -10,8 +10,8 @@
   "SYMBOL": "CHRNCV2",
   "MAX_SUPPLY": 7500,
   "WEI_COST": 500000000000000000,
-  "DISPLAY_COST": 1.0,
-  "GAS_LIMIT": 555000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 385000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/cthulhu-has-risin",
   "SHOW_BACKGROUND": true
